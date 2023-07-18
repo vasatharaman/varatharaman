@@ -10,8 +10,4 @@
 #else 
  #  print(alphabet,"is a consonant")t
 
-value = input("enter a value")
-if (value == "a" or value == "e" or value == "i" or value == "o" or value == "u" ):
-    print("is a vowel")
-else:
-     print("is a cosonant")
+     
